@@ -1,0 +1,232 @@
+﻿{
+    "officialPage":  "https://marcimetzger.com/",
+    "retrievedOn":  "2026-10-26",
+    "provenance":  "Downloaded directly from the GoDaddy CDN URLs referenced by the official homepage HTML and its published gallery bootstrap script. No image source was inferred from another redesign or third-party repository.",
+    "galleryBootstrap":  "https://img1.wsimg.com/blobby/go/067a4d42-19e8-46d9-9bed-578bf62dd44e/gpub/ba0e1a00cf64f1d/script.js",
+    "assets":  [
+                   {
+                       "file":  "hero-mountain-falls-pond.jpg",
+                       "section":  "Hero",
+                       "sourceUrl":  "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/mtn%20falls%20pond.jpg",
+                       "bytes":  1012814,
+                       "width":  2560,
+                       "height":  1700,
+                       "format":  "b96b3cae-0728-11d3-9d7b-0000f81ef32e",
+                       "suggestedAlt":  "Mountain Falls pond, green landscaping, and mountains in Pahrump"
+                   },
+                   {
+                       "file":  "marci-metzger-portrait.jpg",
+                       "section":  "About",
+                       "sourceUrl":  "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/photo-5db79f9.jpg",
+                       "bytes":  302660,
+                       "width":  1632,
+                       "height":  2449,
+                       "format":  "b96b3cae-0728-11d3-9d7b-0000f81ef32e",
+                       "suggestedAlt":  "Marci Metzger standing in a navy jacket against a gray background"
+                   },
+                   {
+                       "file":  "marci-metzger-logo.png",
+                       "section":  "Brand logo",
+                       "sourceUrl":  "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/blob-6c0c2e0.png",
+                       "bytes":  122304,
+                       "width":  2560,
+                       "height":  798,
+                       "format":  "b96b3caf-0728-11d3-9d7b-0000f81ef32e",
+                       "suggestedAlt":  "Marci Metzger Homes wordmark"
+                   },
+                   {
+                       "file":  "ridge-realty-group-badge.png",
+                       "section":  "Professional affiliations",
+                       "sourceUrl":  "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/BIG%20CIRCLE%202.png",
+                       "bytes":  898251,
+                       "width":  2560,
+                       "height":  2560,
+                       "format":  "b96b3caf-0728-11d3-9d7b-0000f81ef32e",
+                       "suggestedAlt":  "The Ridge Realty Group circular navy and gold logo"
+                   },
+                   {
+                       "file":  "equal-housing-opportunity.png",
+                       "section":  "Professional affiliations",
+                       "sourceUrl":  "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/Equal%20Housing%20Logo.png",
+                       "bytes":  191664,
+                       "width":  1500,
+                       "height":  1507,
+                       "format":  "b96b3caf-0728-11d3-9d7b-0000f81ef32e",
+                       "suggestedAlt":  "Equal Housing Opportunity logo"
+                   },
+                   {
+                       "file":  "realtor-pin.jpg",
+                       "section":  "Professional affiliations",
+                       "sourceUrl":  "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/Realtor%20Pin.jpg",
+                       "bytes":  29102,
+                       "width":  412,
+                       "height":  369,
+                       "format":  "b96b3cae-0728-11d3-9d7b-0000f81ef32e",
+                       "suggestedAlt":  "Gold and navy REALTOR membership pin"
+                   },
+                   {
+                       "file":  "pahrump-chamber.jpg",
+                       "section":  "Professional affiliations",
+                       "sourceUrl":  "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/Chamber.jpg",
+                       "bytes":  9313,
+                       "width":  200,
+                       "height":  200,
+                       "format":  "b96b3cae-0728-11d3-9d7b-0000f81ef32e",
+                       "suggestedAlt":  "Pahrump Valley Chamber of Commerce logo"
+                   },
+                   {
+                       "file":  "gallery-01-roseworthy-52.jpg",
+                       "section":  "Photo Gallery",
+                       "sourceUrl":  "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/4460%20Roseworthy-52.jpg-SMALL.JPG",
+                       "bytes":  216341,
+                       "width":  1024,
+                       "height":  682,
+                       "format":  "b96b3cae-0728-11d3-9d7b-0000f81ef32e",
+                       "galleryIndex":  1,
+                       "suggestedAlt":  "Aerial view of a Pahrump neighborhood with a pond, pool, and mountains",
+                       "originalCaption":  null
+                   },
+                   {
+                       "file":  "gallery-02-ailanto-14.jpg",
+                       "section":  "Photo Gallery",
+                       "sourceUrl":  "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/5570%20Ailanto-14.jpg-SMALL.JPG",
+                       "bytes":  153007,
+                       "width":  1024,
+                       "height":  682,
+                       "format":  "b96b3cae-0728-11d3-9d7b-0000f81ef32e",
+                       "galleryIndex":  2,
+                       "suggestedAlt":  "Bright sunroom with a red chair and windows overlooking the garden",
+                       "originalCaption":  null
+                   },
+                   {
+                       "file":  "gallery-03-ailanto-45.jpg",
+                       "section":  "Photo Gallery",
+                       "sourceUrl":  "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/5570%20Ailanto-45.jpg-SMALL.JPG",
+                       "bytes":  173240,
+                       "width":  1024,
+                       "height":  682,
+                       "format":  "b96b3cae-0728-11d3-9d7b-0000f81ef32e",
+                       "galleryIndex":  3,
+                       "suggestedAlt":  "Aerial view of a Pahrump home with desert mountains in the distance",
+                       "originalCaption":  null
+                   },
+                   {
+                       "file":  "gallery-04-ailanto-50.jpg",
+                       "section":  "Photo Gallery",
+                       "sourceUrl":  "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/5570%20Ailanto-50.jpg-SMALL.JPG",
+                       "bytes":  201256,
+                       "width":  1024,
+                       "height":  682,
+                       "format":  "b96b3cae-0728-11d3-9d7b-0000f81ef32e",
+                       "galleryIndex":  4,
+                       "suggestedAlt":  "Aerial view of a home and backyard swimming pool beneath the mountains",
+                       "originalCaption":  null
+                   },
+                   {
+                       "file":  "gallery-05-beacon-ridge-54.jpg",
+                       "section":  "Photo Gallery",
+                       "sourceUrl":  "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/4787%20E%20Beacon%20Ridge-54.jpg-SMALL.JPG",
+                       "bytes":  183757,
+                       "width":  1024,
+                       "height":  682,
+                       "format":  "b96b3cae-0728-11d3-9d7b-0000f81ef32e",
+                       "galleryIndex":  5,
+                       "suggestedAlt":  "Aerial view of a community entrance and sports courts near the mountains",
+                       "originalCaption":  null
+                   },
+                   {
+                       "file":  "gallery-06-beacon-ridge-53.jpg",
+                       "section":  "Photo Gallery",
+                       "sourceUrl":  "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/4787%20E%20Beacon%20Ridge-53.jpg-SMALL.JPG",
+                       "bytes":  205605,
+                       "width":  1024,
+                       "height":  683,
+                       "format":  "b96b3cae-0728-11d3-9d7b-0000f81ef32e",
+                       "galleryIndex":  6,
+                       "suggestedAlt":  "Aerial view of community sports courts, walking paths, and a pond",
+                       "originalCaption":  null
+                   },
+                   {
+                       "file":  "gallery-07-beacon-ridge-41.jpg",
+                       "section":  "Photo Gallery",
+                       "sourceUrl":  "https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/4787%20E%20Beacon%20Ridge-41.jpg-SMALL.JPG",
+                       "bytes":  161326,
+                       "width":  1024,
+                       "height":  683,
+                       "format":  "b96b3cae-0728-11d3-9d7b-0000f81ef32e",
+                       "galleryIndex":  7,
+                       "suggestedAlt":  "Aerial view of homes beside a green golf course and pond",
+                       "originalCaption":  null
+                   },
+                   {
+                       "file":  "get-it-sold-top-sales.jpg",
+                       "section":  "Get It Sold - Top Residential Sales Last 5 Years",
+                       "sourceUrl":  "https://img1.wsimg.com/isteam/stock/3395",
+                       "bytes":  388235,
+                       "width":  2245,
+                       "height":  1440,
+                       "format":  "b96b3cae-0728-11d3-9d7b-0000f81ef32e",
+                       "suggestedAlt":  "Bright kitchen with a central island and pendant lights"
+                   },
+                   {
+                       "file":  "get-it-sold-listing.jpg",
+                       "section":  "Get It Sold - Don\u0027t Just List it...",
+                       "sourceUrl":  "https://img1.wsimg.com/isteam/stock/107927",
+                       "bytes":  387914,
+                       "width":  2164,
+                       "height":  1440,
+                       "format":  "b96b3cae-0728-11d3-9d7b-0000f81ef32e",
+                       "suggestedAlt":  "Poolside stucco home illuminated at dusk"
+                   },
+                   {
+                       "file":  "get-it-sold-buyers.jpg",
+                       "section":  "Get It Sold - Guide to Buyers",
+                       "sourceUrl":  "https://img1.wsimg.com/isteam/stock/771",
+                       "bytes":  758973,
+                       "width":  2560,
+                       "height":  1383,
+                       "format":  "b96b3cae-0728-11d3-9d7b-0000f81ef32e",
+                       "suggestedAlt":  "House keys with a red house-shaped keyring on a wooden surface"
+                   },
+                   {
+                       "file":  "service-real-estate-done-right.jpg",
+                       "section":  "Our Services - Real Estate Done Right",
+                       "sourceUrl":  "https://img1.wsimg.com/isteam/stock/12792",
+                       "bytes":  220578,
+                       "width":  2160,
+                       "height":  1440,
+                       "format":  "b96b3cae-0728-11d3-9d7b-0000f81ef32e",
+                       "suggestedAlt":  "Overhead view of a neutral living room and coffee table"
+                   },
+                   {
+                       "file":  "service-commercial-residential.jpg",
+                       "section":  "Our Services - Commercial \u0026 Residential",
+                       "sourceUrl":  "https://img1.wsimg.com/isteam/stock/43920",
+                       "bytes":  605599,
+                       "width":  2249,
+                       "height":  1440,
+                       "format":  "b96b3cae-0728-11d3-9d7b-0000f81ef32e",
+                       "suggestedAlt":  "Contemporary white home with a green lawn and mountain backdrop"
+                   },
+                   {
+                       "file":  "service-rely-on-expertise.jpg",
+                       "section":  "Our Services - Rely on Expertise",
+                       "sourceUrl":  "https://img1.wsimg.com/isteam/stock/kayaJdA",
+                       "bytes":  125219,
+                       "width":  1254,
+                       "height":  836,
+                       "format":  "b96b3cae-0728-11d3-9d7b-0000f81ef32e",
+                       "suggestedAlt":  "Clients and a property professional shaking hands across a desk"
+                   },
+                   {
+                       "file":  "listing-search-background.jpg",
+                       "section":  "Find Your Dream Home background",
+                       "sourceUrl":  "https://img1.wsimg.com/isteam/getty/2223376026",
+                       "bytes":  361511,
+                       "width":  2121,
+                       "height":  1414,
+                       "format":  "b96b3cae-0728-11d3-9d7b-0000f81ef32e",
+                       "suggestedAlt":  "Contemporary home with an illuminated pool at dusk"
+                   }
+               ]
+}

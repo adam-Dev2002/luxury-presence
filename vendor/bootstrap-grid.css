@@ -1,0 +1,56 @@
+/*!
+ * Bootstrap v5.3.0-alpha1 (https://getbootstrap.com/)
+ * Copyright 2011-2022 The Bootstrap Authors
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+ * Selected original container, row, and column rules from the CSS shipped with
+ * TemplateMo 591 Villa Agency. Declarations are retained; see ../TEMPLATE-SOURCE.md.
+ */
+*,::after,::before {box-sizing:border-box}
+
+.container,.container-fluid,.container-lg,.container-md,.container-sm,.container-xl,.container-xxl {--bs-gutter-x:1.5rem;--bs-gutter-y:0;width:100%;padding-right:calc(var(--bs-gutter-x) * .5);padding-left:calc(var(--bs-gutter-x) * .5);margin-right:auto;margin-left:auto}
+
+@media (min-width:576px) {
+.container,.container-sm {max-width:540px}
+}
+
+@media (min-width:768px) {
+.container,.container-md,.container-sm {max-width:720px}
+}
+
+@media (min-width:992px) {
+.container,.container-lg,.container-md,.container-sm {max-width:960px}
+}
+
+@media (min-width:1200px) {
+.container,.container-lg,.container-md,.container-sm,.container-xl {max-width:1140px}
+}
+
+@media (min-width:1400px) {
+.container,.container-lg,.container-md,.container-sm,.container-xl,.container-xxl {max-width:1320px}
+}
+
+.row {--bs-gutter-x:1.5rem;--bs-gutter-y:0;display:flex;flex-wrap:wrap;margin-top:calc(-1 * var(--bs-gutter-y));margin-right:calc(-.5 * var(--bs-gutter-x));margin-left:calc(-.5 * var(--bs-gutter-x))}
+
+.row>* {flex-shrink:0;width:100%;max-width:100%;padding-right:calc(var(--bs-gutter-x) * .5);padding-left:calc(var(--bs-gutter-x) * .5);margin-top:var(--bs-gutter-y)}
+
+.col-12 {flex:0 0 auto;width:100%}
+
+@media (min-width:768px) {
+.col-md-6 {flex:0 0 auto;width:50%}
+}
+
+@media (min-width:992px) {
+.col-lg-3 {flex:0 0 auto;width:25%}
+
+.col-lg-4 {flex:0 0 auto;width:33.33333333%}
+
+.col-lg-5 {flex:0 0 auto;width:41.66666667%}
+
+.col-lg-6 {flex:0 0 auto;width:50%}
+
+.col-lg-7 {flex:0 0 auto;width:58.33333333%}
+
+.col-lg-8 {flex:0 0 auto;width:66.66666667%}
+
+.col-lg-12 {flex:0 0 auto;width:100%}
+}
